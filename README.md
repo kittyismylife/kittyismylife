@@ -9,4 +9,5 @@ Welcome to my Kitty World! 🐱
 
 
 ## Using SNS or Site
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/hyeonee2_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> 
+<a href="https://chss0520.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Instagram&logoColor=white"/>
